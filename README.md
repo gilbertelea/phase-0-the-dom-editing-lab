@@ -1,5 +1,5 @@
 # DOM Editing Lab
-
+ 
 ## Learning Goals
 
 - Identify that DOM nodes are written as HTML
